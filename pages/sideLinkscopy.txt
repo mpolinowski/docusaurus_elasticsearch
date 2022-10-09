@@ -1,0 +1,2 @@
+https://mpolinowski.github.io/docs/DevOps/Hashicorp/2022-09-24--nomad-nginx-ingress/2022-09-24
+https://mpolinowski.github.io/docs/Development/Go/2022-10-04-go-ntp-client/2022-10-04
